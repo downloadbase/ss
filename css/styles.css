@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
   color: #000957;
+  font size: 100 px;
 }
 h1 span {
     border: 0px solid black;
@@ -9,7 +10,7 @@ h1 span {
   padding: 10px;
 }
 img {
-  padding-left: 350px;
+  padding-left: 250px;
 }
 p {
   font size: 2px;
