@@ -1,6 +1,4 @@
-body {
-  display: flex;
-}
+
 h1 {
   text-align: center;
   color: #000957;
@@ -19,8 +17,6 @@ p {
   font size: 2px;
   display: flex;
 }
-
-body
 
 
 
