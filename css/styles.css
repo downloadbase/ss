@@ -16,6 +16,7 @@ img {
 }
 p {
   font size: 2px;
+  display: flex;
 }
 
 
