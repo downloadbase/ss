@@ -12,6 +12,7 @@ h1 span {
 }
 img {
   padding-left: 150px;
+  display: flex;
 }
 p {
   font size: 2px;
